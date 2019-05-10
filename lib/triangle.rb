@@ -29,6 +29,6 @@ class Triangle
     #     :isosceles 
     # else 
     #     :scalene
-    # end 
+    # end  there was a strange bug with this code, even though it is identical to the one above. 
   end 
 end 
